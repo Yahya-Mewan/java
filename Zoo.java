@@ -78,7 +78,7 @@ public class Zoo {
     }
 	public static void display_options1(){
         System.out.println("Options:");
-        System.out.println("1- aniaml - show you list of sub actions with animals");
+        System.out.println("1- animal - show you list of sub actions with animals");
         System.out.println("2- employee - show you list of sub actions with employees");
         System.out.println("3- supply - show you list of sub actions with supplies");
         System.out.println("4- income - show you list of sub actions with income");
@@ -91,7 +91,7 @@ public class Zoo {
     }
 	public static void display_options2(){
         System.out.println("Options:");
-        System.out.println("1- aniaml - show you list of sub actions with animals");
+        System.out.println("1- animal - show you list of sub actions with animals");
         System.out.println("2- ticket - show list of sub actions with tickets");
 
         System.out.println("--");
